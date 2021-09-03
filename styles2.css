@@ -1,0 +1,202 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 750px;
+    margin: auto;
+}
+.main{
+    width: 700px;
+}
+.logo{
+    text-align: right;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#sth{
+    text-align: left;
+    font-size: 10px;
+    color: #90A4AE;
+}
+#label{
+    background-color: #B71C1C ;
+    border-radius: 3px;
+    color : white;
+    text-align: right;
+    padding: 4px;
+}
+body h1:first-of-type{
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+}
+.divider{
+    border: 1px solid #90A4AE;
+    margin: 5px 0;
+    clear: both;
+}
+.tag{
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.text{
+    vertical-align: middle;
+    display: inline-block;
+    color: #90A4AE;
+    margin-right: 20px;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+div p:first-of-type{
+    text-align: left;
+    font-weight: bold;
+    color: #37474F;
+}
+div img:first-of-type{
+    width: 700px;
+}
+.content{
+    color: #546E7A;
+    text-align: left;
+    font-weight: lighter;
+}
+.material-icons{
+    color: gray;
+}
+.icons{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#telegram{
+    background-color: #0288D1;
+    padding : 5px 10px 10px 5px;
+    margin-right: 5px;
+}
+#telegram svg{
+    vertical-align: middle;
+    display: inline-block;
+}
+#telegram span{
+    vertical-align: middle;
+    display: inline-block;
+    color: whitesmoke;
+    width: 90px;
+}
+#whatsapp{
+    background-color: #2E7D32;
+    padding : 5px 10px 10px 5px;
+    margin-right: 5px;
+}
+#whatsapp svg{
+    vertical-align: middle;
+    display: inline-block;
+}
+#whatsapp span{
+    vertical-align: middle;
+    display: inline-block;
+    color: whitesmoke;
+    width: 90px;
+}
+#facebook{
+    background-color: #00ACC1;
+    padding : 5px 10px 10px 5px;
+    margin-right: 5px;
+}
+#facebook svg{
+    vertical-align: middle;
+    display: inline-block;
+}
+#facebook span{
+    vertical-align: middle;
+    display: inline-block;
+    color: whitesmoke;
+    width: 90px;
+}
+#linkedin{
+    background-color: #283593;
+    padding : 5px 10px 10px 5px;
+    margin-right: 5px;
+}
+#linkedin svg{
+    vertical-align: middle;
+    display: inline-block;
+}
+#linkedin span{
+    vertical-align: middle;
+    display: inline-block;
+    color: whitesmoke;
+    width: 90px;
+}
+#instagram{
+    background-color: #C62828;
+    padding : 5px 10px 10px 5px;
+}
+#instagram svg{
+    vertical-align: middle;
+    display: inline-block;
+}
+#instagram span{
+    vertical-align: middle;
+    display: inline-block;
+    color: whitesmoke;
+    width: 89px;
+}
+.contact{
+    width:700px;
+    height:150px;
+    background-color: #ECEFF1;
+}
+#contact-image{
+    width:80px;
+    height:80px;
+    border-radius: 40px;
+    float: left;
+    margin: 35px;
+}
+.contact-text{
+    width: 500px;
+    height: 150px;
+    float: right;
+}
+#name{
+    color: #37474F;
+    margin-bottom: 5px;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#profile{
+    color: #546E7A;
+    font-weight: lighter;
+    text-align: left;
+}
+.previous{
+    width : 50%;
+    text-align : left;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #37474F;
+}
+.next{
+    width: 50%;
+    text-align: right;
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #37474F;
+}
+.box{
+    width: 700px;
+    height: 150px;
+    background-color: #FAFAFA;
+    border: 2px solid #CFD8DC;
+}
+
+
+
+
+
